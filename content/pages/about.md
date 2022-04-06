@@ -15,5 +15,5 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 > 
 > Tech Full Stack
 
-**PD:** Listo para desarrolarme con empresas a nivel internacional.
+**PD:** Listo para desarrollarme con empresas a nivel internacional.
 
