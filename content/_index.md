@@ -10,7 +10,8 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
--Aplicar mis conocimientos de Front-end
--Aprender backend
+- Aplicar mis conocimientos de Front-end
+
+- Aprender backend
 
 🚀
