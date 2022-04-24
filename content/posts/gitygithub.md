@@ -1,6 +1,7 @@
-title: "Git y Github"
+---
+title: "Git y GitHub"
 date: 2022-03-01
-description: 'Descripción de tu blog post'
+description: 'Uso de comandos basicos y entiendiendo la diferencia'
 ---
 
-Hola aqui te ayudare a entender de manera clara y rapida de lo que es git y github.
+Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
