@@ -19,6 +19,15 @@ Lo que he aprendido en este camino:
     </item>
     
     <item>
+      <title>Git y GitHub</title>
+      <link>https://ingrzs.github.io/my_launchx_blog/posts/gitygithub/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ingrzs.github.io/my_launchx_blog/posts/gitygithub/</guid>
+      <description>Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un desarrolador de Software</title>
       <link>https://ingrzs.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
@@ -26,15 +35,6 @@ Lo que he aprendido en este camino:
       <guid>https://ingrzs.github.io/my_launchx_blog/posts/intro/</guid>
       <description>El software forma parte de nuestra sociedad y esta profundamente integrado en las infraestructuras y los sistemas que determinan nuestras acciones cotidianas.
 La gestión del cambio es probablemente uno de los hándicaps más importantes a los que puede enfrentarse un profesional durante su carrera. Especialmente, en las empresas de desarrollo de software, una adecuada cultura empresarial y gestión del capital humano no solo permite realizar incorporaciones de talento que comparte los valores, sino que la hace más eficiente y sostenible al desarrollo su actividad.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ingrzs.github.io/my_launchx_blog/posts/gitygithub/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ingrzs.github.io/my_launchx_blog/posts/gitygithub/</guid>
-      <description>title: &amp;ldquo;Git y Github&amp;rdquo; date: 2022-03-01 description: &amp;lsquo;Descripción de tu blog post&amp;rsquo; Hola aqui te ayudare a entender de manera clara y rapida de lo que es git y github.</description>
     </item>
     
   </channel>
