@@ -34,7 +34,7 @@ Este comando **git init** le esta diciendo configura git para poder empezar a su
 
 #### 2.-A continuacion escribiremos el comando git status
 
-Ahora con **git status** apareceran nombres de tus archivos de tu proyecto en color rojo, importante aqui solo deben ver tus archivos de tu proyecto , si esta una carpeta o archivo como foto o videos que no sea del proyecto , cierra la ventana terminal y asegurarte estar dentro de la carpeta de tu proyecto de lo contrario luego tus archivos personales se subiran a github <br>
+Ahora con **git status** apareceran nombres de tus archivos de tu proyecto en color rojo, importante aqui solo deben ver tus archivos de tu proyecto , si esta una carpeta o archivo como foto o videos que no sea del proyecto , cierra la ventana terminal y asegurarte estar dentro de la carpeta de tu proyecto de lo contrario luego tus archivos personales se subiran a github. <br>
 
 ![image](https://user-images.githubusercontent.com/94188197/165148504-959ca5e3-4161-4105-9537-47f1d76831de.png)
 
@@ -53,12 +53,13 @@ Esto se hace para guardar y versionar nuestro proyecto a modo local , si tu guar
 Para poder decirle a git a donde mandaremos nuestro proyecto la url la obtienen de aqui.
 ![image](https://user-images.githubusercontent.com/94188197/165137466-fd9f1b72-27e4-4218-8f91-2c48b159a3af.png)
 
-Escribimos el comando arriba mencionado.
+
+Escribimos el comando de arriba mencionado.
 ![image](https://user-images.githubusercontent.com/94188197/165148831-3b8586bb-4112-4ab2-b21c-6ad4301541aa.png)
 
 
 #### 6.- Escribe git remote -v <br>
-Te tendran que salir el nombre de tu repo con las url (fetch y push) , si no te aparece asegurate de poner la url de repositorio correctamente.
+Te tendran que salir el nombre de tu repo con las url (fetch y push) , si no te aparece asegurate de poner la url de repositorio correctamente. <br>
 ![image](https://user-images.githubusercontent.com/94188197/165137799-5e1cf458-04a2-45ce-9878-7aaf7da77f41.png)
 
 #### 7.-Ahora escribiremo --git pull origin main-- (en ocasiones en lugar de main suele ser master)<br>
@@ -77,8 +78,9 @@ Presta atencio aqui porque cuando nosotros iniciamos un proyecto aqui en git el 
 
 #### 8.-Ahora escribimos git push origin main<br> 
 Para mandar nuestro proyecto a github escribimos el comando.
-![image](https://user-images.githubusercontent.com/94188197/165142576-5d6c6b6b-9c4e-4bea-a79b-f54b6b9207b8.png)
-Y ya debe aparecer en tu repositorio remoto de github.
+![image](https://user-images.githubusercontent.com/94188197/165142576-5d6c6b6b-9c4e-4bea-a79b-f54b6b9207b8.png)<br>
+
+Y ya debe aparecer en tu repositorio remoto de github. <br>
 ![image](https://user-images.githubusercontent.com/94188197/165142758-e8e49af6-7141-4217-9cf8-e0806ccf12ec.png)
 
 
@@ -90,7 +92,7 @@ Simple elige la ubicacion de la carpeta o donde quieras descargar el proyecto de
 
 #### 1.- Escribe git clone urlreposorio
 Lo que hara **git clone urlrepo** es descargar el repositorio.
-Podras ver que una ves escribo el comando y presiono enter se descargan los archivos.
+Podras ver que una ves escribo el comando y presiono enter se descargaran los archivos. <br>
 ![image](https://user-images.githubusercontent.com/94188197/165154209-0bbcef25-f2c6-4dd3-b494-21336759ed67.png)
 
 
@@ -112,9 +114,9 @@ Te debe aparecer el repositorio remoto que clonaste (fetch push)
 OJO AQUI si nuestro proyecto tiene muchas carpetas es recomendable que te ubiques o te metas dentro de la carpeta del proyecto para asi saber donde y que carpeta estas actualizando.
 
 EJEMPLO escribire **ls** en la terminal y me apareceran mis carpeta y archivos del repositorio.
-![image](https://user-images.githubusercontent.com/94188197/165155617-39c3caf9-42d7-499b-9adc-70c026edb11a.png)
+![image](https://user-images.githubusercontent.com/94188197/165155617-39c3caf9-42d7-499b-9adc-70c026edb11a.png) <br>
 
-Si yo quiero agregar o modifique un archivo de la carpeta 2 primero accedo o me ubico dentro de ella de la siguiente manera: **cd carpeta2
+Si yo quiero agregar o modifique un archivo de la carpeta 2 primero accedo o me ubico dentro de ella de la siguiente manera: **cd carpeta2 <br>
 ![image](https://user-images.githubusercontent.com/94188197/165156014-97ba9285-499c-46dc-b02b-76beb9ca4e29.png)
 
 Agregare un archivo( de forma manual) a carpeta 2 y luego escribire **git status** y veran que aparecera en letras rojas 
@@ -133,7 +135,7 @@ Aqui checando que efectivamente se subio el archivo.
 
 
 #### 5.-Ahora que pasa si modifique o añadi  un archivo en carpeta 1 , pues tengo que salir de carpeta 2 y ubicarme en carpeta 1
-Escribo **cd ..** (cd espacio dos puntos ) para salirme de carpeta2 y luego un ls veran las dos carpetas, ahora escribo **cd carpeta1** y repito los proceso de **git add .** , ** git commit -m "nombre de commit", y por ultimo **git push origin main** y ya tendre todo en mi repositorio remoto.
+Escribo **cd ..** (cd espacio dos puntos ) para salirme de carpeta2 y luego un ls veran las dos carpetas, ahora escribo **cd carpeta1** y repito los proceso de **git add .** , **git commit -m "nombre de commit"**, y por ultimo **git push origin main** y ya tendre todo en mi repositorio remoto.
 ![image](https://user-images.githubusercontent.com/94188197/165158011-50ecf035-5074-47ea-867b-9ed074e679fe.png)
 
 Espero te haya ayudado mucho y que sigas aprendiendo y vueles hasta el infinito y mas alla :D.
