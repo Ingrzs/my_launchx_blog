@@ -1,21 +1,23 @@
 ---
 title: "Git y GitHub"
 date: 2022-04-24
-description: 'Uso de comandos basicos y entiendiendo la diferencia'
+description: 'Uso de comandos basicos y entendiendo la diferencia'
 ---
 
-Primero tenemos git que en pocas palabras seria el software "la terminal" ,bash,gui shell,cmd, en el puedes hacer muchisimas cosas ,entre ellas la de versionar.
-Segundo Github es la plataforma web (como el facebook XD) , el sitio donde se alojan tus archivos,proyectos, etc.
+Primero tenemos git que en pocas palabras seria el software "la terminal" ,bash,gui shell,cmd, en el puedes hacer muchisimas cosas.<br>
+Segundo Github es la plataforma web (como el facebook XD) , el sitio donde se alojan tus archivos,proyectos, etc.<br>
 Asi que asi de facil es entender la diferencia de ambos.
 
 Acontinuacion de mostrare un poco de lo que e aprendido , y espero que a ti te ayude muchisimo, quizas sea algo basico pero muy importante en el dia a dia, en el mundo de la programacion.
 
 
-Yo uso git bash con windows.
-Primero lo primero ve a github y crea un repositorio, agregale una descripcion y elige opcion readme (para que se nos cree un archivo md en nuestro proyecto)
+## Uso de **git bash en windows**
+Primero lo primero ve a github y crea un repositorio, agregale una descripcion y elige opcion readme (para que se nos cree un archivo md en nuestro proyecto) y presiona el boton create repository<br>
+
+![image](https://user-images.githubusercontent.com/94188197/165134496-44531c5b-fa27-46d5-996b-f00532964e10.png)
 
 
-Cuando creamos un proyecto en nuestro pc y despues queremos subirlo a github, los pasos que haremos seran los siguientes:
+### Cuando creamos un proyecto en nuestro pc y despues queremos subirlo a github, los pasos que haremos seran los siguientes:
 
 Primero vamos a posicicionarlos en la parte donde esta nuestro proyecto en la carpeta principal (mas adelante de explico porque nos ubicamos ahi) y dale click derecho y elige git bash ,bueno esa uso yo ,sera tu eleccion cual desees usar.
 
