@@ -35,12 +35,10 @@ Este comando le esta diciendo configura git para poder empezar a subir el proyec
 #### 2.-A continuacion escribiremos el comando git status
 
 Te apareceran nombres de tus archivos de tu proyecto en color rojo, importante aqui solo deben ver tus archivos de tu proyecto , si esta una carpeta o archivo como foto o videos que no sea del proyecto , cierra la ventana terminal y asegurarte estar dentro de la carpeta de tu proyecto de lo contrario luego tus archivos personales se subiran a github.
-
-![image](https://user-images.githubusercontent.com/94188197/165136642-8b0749a1-aa80-4b0b-8016-274c91046409.png)
-
+![image](https://user-images.githubusercontent.com/94188197/165148504-959ca5e3-4161-4105-9537-47f1d76831de.png)
 
 
-#### 3.- Ahora escribiremos el comando :git add . "agrega todos los archivos"  o git add NOMBREDELARCHIVO "agrega de un archivo uno en uno"
+#### 3.- Ahora escribiremos el comando :git add . "agrega todos los archivos"  o git add nombredelarchivo "agrega de un archivo uno en uno"
 Ya que te aseguraste que tus archivos son los de tu proyecto escribiremos el comando de arriba y vuelves a escribir git status y veras que ahora el nombre de tus archivos cambio a letra color verde.
 ![image](https://user-images.githubusercontent.com/94188197/165136959-6120aa2c-adf5-4fb1-a7f9-544cfc9b71f3.png)
 
@@ -56,7 +54,7 @@ Para poder decirle a git a donde mandaremos nuestro proyecto la url la obtienen 
 
 Escribimos el comando arriba mencionado
 
-![image](https://user-images.githubusercontent.com/94188197/165137663-61967eea-0346-4323-b1c9-31ce345de009.png)
+![image](https://user-images.githubusercontent.com/94188197/165148831-3b8586bb-4112-4ab2-b21c-6ad4301541aa.png)
 
 
 #### 6.- Escribe git remote -v <br>
@@ -69,7 +67,7 @@ Escribiremos git pull origin main, esto para que nuestro proyecto local se sincr
 
 ![image](https://user-images.githubusercontent.com/94188197/165140535-c38d39f9-4355-471d-ac05-c8fc73878030.png)<br>
 
-Presta atencio aqui porque cuando nosotros iniciamos un proyecto aqui en git el nombre de la rama sera master y cuando añadimos el de github el nombre de la rama es main, asi que antes de hacer pull o push cambia el nombre de la rama con el siguiente comando : git branch -M master main  (master es de git y le digo ahora nombrala main para que coincida con la de github de lo contrario te dara problemas que en github se creo una nueva rama e hicieron pull).
+Presta atencio aqui porque cuando nosotros iniciamos un proyecto aqui en git el nombre de la rama sera master y cuando añadimos el de github el nombre de la rama es main, asi que antes de hacer pull o push cambia el nombre de la rama con el siguiente comando : **git branch -M master main**  (master es de git y le digo ahora nombrala main para que coincida con la de github de lo contrario te dara problemas que en github se creo una nueva rama e hicieron pull).
 
 #### 8.-Ahora escribimos git push origin main<br> 
 Para mandar nuestro proyecto a github y tu proyecto ya debera aparecer en github.
