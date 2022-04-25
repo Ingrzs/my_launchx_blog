@@ -34,7 +34,8 @@ Este comando **git init** le esta diciendo configura git para poder empezar a su
 
 #### 2.-A continuacion escribiremos el comando git status
 
-Ahora con **git status** apareceran nombres de tus archivos de tu proyecto en color rojo, importante aqui solo deben ver tus archivos de tu proyecto , si esta una carpeta o archivo como foto o videos que no sea del proyecto , cierra la ventana terminal y asegurarte estar dentro de la carpeta de tu proyecto de lo contrario luego tus archivos personales se subiran a github.<br>
+Ahora con **git status** apareceran nombres de tus archivos de tu proyecto en color rojo, importante aqui solo deben ver tus archivos de tu proyecto , si esta una carpeta o archivo como foto o videos que no sea del proyecto , cierra la ventana terminal y asegurarte estar dentro de la carpeta de tu proyecto de lo contrario luego tus archivos personales se subiran a github <br>
+
 ![image](https://user-images.githubusercontent.com/94188197/165148504-959ca5e3-4161-4105-9537-47f1d76831de.png)
 
 
