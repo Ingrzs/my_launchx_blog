@@ -68,6 +68,14 @@ Escribiremos git pull origin main, esto para que nuestro proyecto local se sincr
 ![image](https://user-images.githubusercontent.com/94188197/165140535-c38d39f9-4355-471d-ac05-c8fc73878030.png)<br>
 
 Presta atencio aqui porque cuando nosotros iniciamos un proyecto aqui en git el nombre de la rama sera master y cuando añadimos el de github el nombre de la rama es main, asi que antes de hacer pull o push cambia el nombre de la rama con el siguiente comando : **git branch -M master main**  (master es de git y le digo ahora nombrala main para que coincida con la de github de lo contrario te dara problemas que en github se creo una nueva rama e hicieron pull).
+##### Primero cambiamo el nombre de la rama para que sea el mismo
+
+![image](https://user-images.githubusercontent.com/94188197/165151163-5cfdb0b0-a864-4fff-b4d3-6b25046cd9f1.png)
+
+##### Segunfo ahora si hacemos el pull
+
+![image](https://user-images.githubusercontent.com/94188197/165151915-add43288-9562-4c66-9894-4da04c1fd109.png)
+
 
 #### 8.-Ahora escribimos git push origin main<br> 
 Para mandar nuestro proyecto a github y tu proyecto ya debera aparecer en github.
